@@ -1,0 +1,56 @@
+@font-face { 
+    font-family: Kill The Noise; src: url('Kill\ The\ Noise.otf') format('truetype');
+    font-family: Stick No Bills; src: url('StickNoBills-VariableFont_wght.ttf') format('truetype');
+}
+
+.header {
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -3.8%;
+    width: 738px;
+    height: 356px;
+    overflow: hidden;
+}
+
+h1 {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Kill The Noise';
+    font-size: 50px;
+}
+
+.logos {
+    display: flex;
+    width: 540px;
+    height: 350px;
+    position: relative;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nav {
+    position: relative;
+    display: flex;
+    margin-top: -7%;
+    margin-left: 9%;
+    margin-right: auto;
+    width: auto;
+}
+
+.socials {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.background {
+    align-content: center;
+    position: absolute;
+    margin-left: -4.5%;
+}
+
+
+
