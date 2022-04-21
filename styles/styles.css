@@ -92,10 +92,31 @@ h1 {
     position: relative;
 }
 
+.visual-block {
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.visual-text {
+    display: flex;
+    justify-content: center;
+    font-family: 'Stick No Bills';
+    font-size: 55px;
+    margin-top: -58%;
+}
+
 .thumbnails {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
+    justify-content: center;
+}
+
+.visual-text2 {
+    display: flex;
+    font-family: 'Stick No Bills';
+    font-size: 55px;
     justify-content: center;
 }
 
