@@ -60,6 +60,13 @@ h1 {
     margin-right: 20px;
 }
 
+.page-title {
+    position: relative;
+    font-family: 'Kill The Noise';
+    font-size: 60px;
+    text-align: center;
+}
+
 .background {
     align-content: center;
     position: absolute;
