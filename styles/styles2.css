@@ -64,4 +64,112 @@ h1 {
     align-content: center;
     position: absolute;
     margin-left: -4.5%;
+    margin-top: -1%;
+}
+
+.videos {
+    position: relative;
+}
+
+.videos-block {
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.thumbnails {
+    display: flex;
+    justify-content: center;
+    margin-top: -48%;
+}
+
+.text1 {
+    display: flex;
+    justify-content: left;
+    font-family: 'Stick No Bills';
+    font-size: 40px;
+    margin-left: 15%;
+    text-align: center;
+}
+
+.text2 {
+    display: flex;
+    justify-content: right;
+    font-family: 'Stick No Bills';
+    font-size: 40px;
+    margin-right: 15%;
+    margin-top: -15%;
+    text-align: center;
+}
+
+h4 {
+    display: flex;
+    justify-content: center;
+    font-family: 'Stick No Bills';
+    font-size: 40px;
+    text-align: center;
+}
+
+.visual {
+    position: relative;
+}
+
+.visual-block {
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.visual-text {
+    display: flex;
+    justify-content: center;
+    font-family: 'Stick No Bills';
+    font-size: 55px;
+    margin-top: -58%;
+}
+
+.thumbnails1 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.visual-text2 {
+    display: flex;
+    font-family: 'Stick No Bills';
+    font-size: 55px;
+    justify-content: center;
+}
+
+.work {
+    position: relative;
+}
+
+.work-block {
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.work-text {
+    display: flex;
+    justify-content: center;
+    font-family: 'Stick No Bills';
+    font-size: 55px;
+    margin-top: -108%;
+}
+
+.work-images {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.work-text2 {
+    display: flex;
+    font-family: 'Stick No Bills';
+    font-size: 55px;
+    justify-content: center;
 }
